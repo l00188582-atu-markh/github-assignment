@@ -1,1 +1,1 @@
-# github-assignment: Issues, Milestones and Projects
+# Github Assignment: Issues, Milestones and Projects

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabha\\source\\repos\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj": {}
+    "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabha\\source\\repos\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj": {
+    "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabha\\source\\repos\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj",
+        "projectUniqueName": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj",
         "projectName": "CarDoors-L00188582",
-        "projectPath": "C:\\Users\\gabha\\source\\repos\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj",
+        "projectPath": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj",
         "packagesPath": "C:\\Users\\gabha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabha\\source\\repos\\CarDoors-L00188582\\CarDoors-L00188582\\obj\\",
+        "outputPath": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabha\\AppData\\Roaming\\NuGet\\NuGet.Config",

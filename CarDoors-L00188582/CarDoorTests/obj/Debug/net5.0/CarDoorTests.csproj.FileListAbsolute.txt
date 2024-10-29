@@ -1,0 +1,5 @@
+D:\GitHubAssignment\CarDoors-L00188582\CarDoorTests\obj\Debug\net5.0\CarDoorTests.csprojAssemblyReference.cache
+D:\GitHubAssignment\CarDoors-L00188582\CarDoorTests\obj\Debug\net5.0\CarDoorTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubAssignment\CarDoors-L00188582\CarDoorTests\obj\Debug\net5.0\CarDoorTests.AssemblyInfoInputs.cache
+D:\GitHubAssignment\CarDoors-L00188582\CarDoorTests\obj\Debug\net5.0\CarDoorTests.AssemblyInfo.cs
+D:\GitHubAssignment\CarDoors-L00188582\CarDoorTests\obj\Debug\net5.0\CarDoorTests.csproj.CoreCompileInputs.cache

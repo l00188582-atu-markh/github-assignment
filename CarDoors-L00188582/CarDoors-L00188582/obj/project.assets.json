@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj",
-      "projectName": "CarDoors-L00188582",
-      "projectPath": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoors-L00188582.csproj",
+      "projectUniqueName": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoorsL00188582.csproj",
+      "projectName": "CarDoorsL00188582",
+      "projectPath": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\CarDoorsL00188582.csproj",
       "packagesPath": "C:\\Users\\gabha\\.nuget\\packages\\",
       "outputPath": "D:\\GitHubAssignment\\CarDoors-L00188582\\CarDoors-L00188582\\obj\\",
       "projectStyle": "PackageReference",

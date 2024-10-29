@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CarDoorsL00188582/1.0.0": {
+        "runtime": {
+          "CarDoorsL00188582.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarDoorsL00188582/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

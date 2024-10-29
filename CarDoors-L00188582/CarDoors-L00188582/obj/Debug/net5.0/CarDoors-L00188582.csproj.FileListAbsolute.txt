@@ -1,0 +1,16 @@
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\bin\Debug\net5.0\CarDoors-L00188582.exe
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\bin\Debug\net5.0\CarDoors-L00188582.deps.json
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\bin\Debug\net5.0\CarDoors-L00188582.runtimeconfig.json
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\bin\Debug\net5.0\CarDoors-L00188582.runtimeconfig.dev.json
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\bin\Debug\net5.0\CarDoors-L00188582.dll
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\bin\Debug\net5.0\ref\CarDoors-L00188582.dll
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\bin\Debug\net5.0\CarDoors-L00188582.pdb
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.csprojAssemblyReference.cache
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.AssemblyInfoInputs.cache
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.AssemblyInfo.cs
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.csproj.CoreCompileInputs.cache
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.dll
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\ref\CarDoors-L00188582.dll
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.pdb
+D:\GitHubAssignment\CarDoors-L00188582\CarDoors-L00188582\obj\Debug\net5.0\CarDoors-L00188582.genruntimeconfig.cache

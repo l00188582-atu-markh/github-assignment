@@ -68,12 +68,13 @@ namespace CarDoorTests
         }
 
         [TestMethod]
-        public void TestAlwaysFails()
+        public void TestUsedToAlwaysFail()
         {
             //Arrange
             CarDoorCountProvider carDoorProvider = new CarDoorCountProvider();
             carDoorProvider.SetDoors(5);
-            int expected = 3;
+            //  int expected = 3;
+            int expected = 5;
 
             //Act
             int actual = carDoorProvider.GetDoors();

@@ -1,0 +1,30 @@
+name: Run Unit Tests
+
+on: 
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  build-app:
+    if: github.event.pull_request.merged == true # prevents workflow from running on abandoned PRs
+    runs-on:  ubuntu-latest # ephemeral GitHub-hosted linux runner
+    steps:
+      # Step to checkout the repository onto the runner
+      - name: checkout repository
+        uses: actions/checkout@v2
+
+      # Step to install the dotnet core runtime 
+      - name: setup dotnet
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.0.x'
+
+      # Step to run the unit tests
+      #  'dotnet test' restores & builds the solution by default
+      - name: run unit tests
+        run: dotnet test CarDoors-L00188582/CarDoors-L00188582.sln
+
+        
+
+      

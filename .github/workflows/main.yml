@@ -18,7 +18,7 @@ jobs:
       - name: setup dotnet
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: '6.0.x'
+          dotnet-version: '5.0.0'
 
       # Step to run the unit tests
       #  'dotnet test' restores & builds the solution by default

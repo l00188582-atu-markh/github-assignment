@@ -1,1 +1,3 @@
 Demonstrating closing an issue with a Pull Request
+
+Adding some text

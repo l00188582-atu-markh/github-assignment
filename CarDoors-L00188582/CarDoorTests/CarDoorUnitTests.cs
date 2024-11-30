@@ -19,8 +19,6 @@ namespace CarDoorTests
 
             //Assert
             Assert.AreNotEqual(expected, actual);
-
-
         }
 
         [TestMethod]
@@ -36,7 +34,6 @@ namespace CarDoorTests
 
             //Assert
             Assert.AreEqual(expected, actual);
-
         }
 
         [TestMethod]
@@ -81,7 +78,6 @@ namespace CarDoorTests
 
             //Assert
             Assert.AreEqual(expected, actual);
-
         }
     }
 }
